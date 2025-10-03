@@ -1,5 +1,5 @@
 public class Main {
-// ESTO ES UN COMENTARIO
+// ESTO ES UN COMENTARIO DE JAVA
 // TODO Me falta hacer esto tatatatatat
     public static void main(String[] args){
         System.out.println("Este es mi primer programa en java");
